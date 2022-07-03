@@ -1,0 +1,9 @@
+table,th,tr,td{
+     border: 1px solid crimson;
+     height: 25px;
+     width: 5px;
+}
+
+table{
+     text-align: center;
+}

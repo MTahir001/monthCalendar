@@ -1,9 +1,14 @@
-table,th,tr,td{
-     border: 1px solid crimson;
-     height: 25px;
-     width: 5px;
+table,
+th,
+tr,
+td {
+  border: 1px solid crimson;
+  height: 25px;
+  width: 5px;
 }
-
-table{
-     text-align: center;
+table {
+  text-align: center;
+}
+td:nth-child(1) {
+  color: red;
 }
